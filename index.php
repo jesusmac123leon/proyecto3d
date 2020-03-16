@@ -35,10 +35,7 @@
       <li><a href="cup/index.html"><img src="img/torta.png"></a></li>
     </ul>
 
-    <div class="github-fork-ribbon-wrapper right">
-      <div class="github-fork-ribbon" style="background: rgb(12, 12, 12)">
-        <a href="https://github.com/ngokevin/aframe-blender-projects">Fork me on GitHub</a>
-      </div>
+    
     </div>
   </body>
 </html>
